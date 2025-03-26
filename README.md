@@ -72,8 +72,8 @@ The bot follows this algorithmic flow:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bitfancy/solana-mev-bot-optimized.git
-   cd solana-mev-bot-optimized
+   git clone https://github.com/xbener/solana-mev-bot.git
+   cd solana-mev-bot
    ```
 2. Install dependencies:
    ```bash
@@ -129,19 +129,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed description of your changes.
-
----
-
-## 📞 Contact Information
-For questions, feedback, or collaboration opportunities, feel free to reach out:
-
-<div align="left">
-
-📧 **Email**: [bitbanana717@gmail.com](mailto:bitbanana717@gmail.com)  
-📱 **Telegram**: [@bitfancy](https://t.me/bitfancy)  
-🎮 **Discord**: [@bitbanana717](https://discord.com/users/bitbanana717)  
-
-</div>
 
 ---
 
